@@ -1,7 +1,7 @@
 # Open Numeris
 Criado por Daniel Pereira (dpnnl)
 
-<img src="images/image_1.png" height="320">
+<img src="images/image_1.png" height="480">
 
 Núcleo completo (Lógica + Interface) para geração de quizzes matemáticos. O sistema gerencia as 4 operações básicas, progressão de nível do usuário e desbloqueio de categorias.
 
