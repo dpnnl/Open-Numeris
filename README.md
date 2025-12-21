@@ -1,4 +1,4 @@
-# Open Numeris
+# Open Numeris por Daniel Pereira dpnnl
 
 Núcleo completo (Lógica + Interface) para geração de quizzes matemáticos. O sistema gerencia as 4 operações básicas, progressão de nível do usuário e desbloqueio de categorias.
 
